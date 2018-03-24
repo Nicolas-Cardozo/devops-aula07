@@ -1,3 +1,4 @@
+* Teste de inicalizacao jogo da velha
 import jogovelha
 import sys
 
