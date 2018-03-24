@@ -1,9 +1,7 @@
 # Requisitos
 
-## Estados e inicialização do tabuleiro
+## Verificação da Validade das jogadas
 
-* O sistema deverá manter o estado de cada uma das casas de
-um jogo da velha.
+* Somente uma jogada por vez de cada jogador.
 
-* Cada casa do jogo da velha poderá estar vazia, ocupada
-pelo 1o jogador ou ocupada pelo 2o jogador.
+* Nenhuma jogada poderá sobrepor a do do seu oponente.
